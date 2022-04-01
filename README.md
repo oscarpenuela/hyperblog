@@ -1,4 +1,10 @@
-# hyperblog
-Un blog increíble para el curso de Git y Github de Platzi
+#Hyperblog
 
-Cambiamos el archivo creando rama HEADER
+Un blog para el curso de** Git y Github **de Platzi
+
+En este curso se ve:
+
+- Comandos de Git
+- Flujo de trabajo en Github
+- Buenas prácticas
+- Tips de programación
