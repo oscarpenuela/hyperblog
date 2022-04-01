@@ -1,5 +1,8 @@
-Esta es la historia de Freddy Vega
+Esta es la historia del curso de git en Platzi
 
-Freddy Vega tiene 32 años y nació en Colombia
+Tomado por:
+
+Oscar Peñuela, 45 años, nacido en Colombia
+Técnico en Desarrollo de Software
 
 Mañana nos enfocaremos en su vida laboral
