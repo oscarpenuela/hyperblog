@@ -3,6 +3,8 @@ Esta es la historia del curso de git en Platzi
 Tomado por:
 
 Oscar Peñuela, 45 años, nacido en Colombia
-Técnico en Desarrollo de Software
+Técnico en Desarrollo de Software.
+
+Curso completo Min TIC 2022
 
 Mañana nos enfocaremos en su vida laboral
